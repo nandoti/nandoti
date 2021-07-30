@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Fernando Tavares
 - 🔭 Estagiário Front End
-- 👨‍💻 Faço ADS na Estácio 
+- 👨‍💻 Estudande de Análise e Desenvolvimento de Sistemas na Estácio 
 - 🌱 Estudando Javascript e React
 
 ##
