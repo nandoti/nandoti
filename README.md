@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fernando Tavares
-- 🔭 Software Developer Jr
-- 👨‍💻 Estudande de Análise e Desenvolvimento de Sistemas na Estácio 
-- 🌱 Estudando Typescript e ReactJS
+- 🔭 Front End
+- 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas na Estácio 
+- 🌱 Estudando JavaScript e ReactJS
 
 ##
 
