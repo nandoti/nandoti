@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fernando Tavares
 - 🔭 Front End
 - 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas na Estácio 
-- 🌱 Estudando JavaScript e ReactJS
+- 🌱 Estudando JavaScript e Python
 
 ##
 
