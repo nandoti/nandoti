@@ -2,7 +2,7 @@
 - 🔭 Front End
 - 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas na Estácio 
 - 🌱 Estudando JavaScript e Python
-
+ 
 ##
 
  <div>
